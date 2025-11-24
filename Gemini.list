@@ -1,0 +1,50 @@
+# NAME: Gemini
+# AUTHOR: Custom
+# REPO: -
+# UPDATED: 2025-11-24 14:30:00
+# HOST: 6
+# HOST-KEYWORD: 3
+# HOST-SUFFIX: 22
+# IP-ASN: 1
+# TOTAL: 32
+
+# ==== HOST ====
+HOST,api.generativeai.googleapis.com,Gemini
+HOST,generativelanguage.googleapis.com,Gemini
+HOST,vertexai.googleapis.com,Gemini
+HOST,studio.googleapis.com,Gemini
+HOST,ai.google.com,Gemini
+HOST,generativelanguage-pa.googleapis.com,Gemini
+
+# ==== HOST-SUFFIX ====
+HOST-SUFFIX,googleapis.com,Gemini
+HOST-SUFFIX,googleapis.cn,Gemini
+HOST-SUFFIX,google.com,Gemini
+HOST-SUFFIX,ai.google,Gemini
+HOST-SUFFIX,cloud.google.com,Gemini
+HOST-SUFFIX,clients6.google.com,Gemini
+HOST-SUFFIX,clients2.google.com,Gemini
+HOST-SUFFIX,googleusercontent.com,Gemini
+HOST-SUFFIX,gstatic.com,Gemini
+HOST-SUFFIX,gvt1.com,Gemini
+HOST-SUFFIX,gvt2.com,Gemini
+HOST-SUFFIX,withgoogle.com,Gemini
+HOST-SUFFIX,autodraw.com,Gemini
+HOST-SUFFIX,material.io,Gemini
+HOST-SUFFIX,tfhub.dev,Gemini
+HOST-SUFFIX,tensorflow.org,Gemini
+HOST-SUFFIX,googlesource.com,Gemini
+HOST-SUFFIX,googleapis.dev,Gemini
+HOST-SUFFIX,google.dev,Gemini
+HOST-SUFFIX,developers.google.com,Gemini
+HOST-SUFFIX,aiplatform.googleapis.com,Gemini
+HOST-SUFFIX,us-central1-aiplatform.googleapis.com,Gemini
+
+# ==== HOST-KEYWORD ====
+HOST-KEYWORD,generativeai,Gemini
+HOST-KEYWORD,vertexai,Gemini
+HOST-KEYWORD,aiplatform,Gemini
+
+# ==== IP-CIDR / ASN ====
+# Google Global ASN
+IP-ASN,15169,Gemini
